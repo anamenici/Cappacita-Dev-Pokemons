@@ -1,5 +1,5 @@
 # Cappacita-Dev-Pokemons
-Projeto elaborado nos Módulos 4 e 5 do Curso Cappacita Dev - Inteligências Artificiais Conversacionais - Fase To Hero, promovido pela D1|SMARKIO:
+Projeto elaborado nos Módulos 3 e 4 do Curso Cappacita Dev - Inteligências Artificiais Conversacionais - Fase To Hero, promovido pela D1|SMARKIO:
 Fase de imersão na área de desenvolvimento de software, com integração entre sistemas web, criação de API e conteúdo avançado sobre programação:
 
 - Módulo 3 - Criando seu Primeiro Projeto (JavaScript, Github, NodeJS, ES6):
