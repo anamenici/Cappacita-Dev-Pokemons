@@ -60,5 +60,4 @@ Postman
 MySQL
 
 ### Autoria
-Ana Paula Menici
-[LinkedIN](https://www.linkedin.com/anamenici)
+[Ana Paula Menici](https://www.linkedin.com/anamenici)
