@@ -14,9 +14,8 @@
  <a href="#sobre">Sobre</a> •
  <a href="#roadmap">Features</a> •
  <a href="#pré-requisitos">Pré-requisitos</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenca">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#tecnologias">Tecnologias</a> •  
+ <a href="#autor">Autoria</a>
 </p>
 
 
@@ -59,3 +58,6 @@ Nodemon
 Express
 Postman
 MySQL
+
+### Autoria
+Ana Paula Menici
